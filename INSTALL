@@ -1,0 +1,20 @@
+Dependencies:
+	CMake 3.0.x
+	wxWidgets 3.0.x
+
+Linux:
+	Make sure you're in the project root, then type:
+		mkdir build
+		cd build
+		cmake ..
+		make
+	
+	If all goes well, you'll have a binary in there called turtle-demo. 
+	To run the program, type:
+		./turtle-demo
+
+Windows:
+	[Not tested yet]
+
+OSX:
+	[Not tested yet]
